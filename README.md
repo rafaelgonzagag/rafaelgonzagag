@@ -36,7 +36,7 @@
 <h2 align="center">Connect :mailbox_with_mail:</h2>
 <div align="center">
 
-[![Gmail Badge](https://img.shields.io/badge/-leoronne@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leoronne@gmail.com)](mailto:leoronne@gmail.com) 
+[![Gmail Badge](https://img.shields.io/badge/-rafagonzagag@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafagonzagag@gmail.com)](mailto:rafagonzagag@gmail.com) 
 <a href="https://www.linkedin.com/in/rafaelgonzagag" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.facebook.com/rafael.gonzagagoncalves" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://www.instagram.com/rafaelgonzagag" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
